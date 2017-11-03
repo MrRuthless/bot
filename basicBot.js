@@ -248,7 +248,7 @@
     var basicBot = {
         version: '2.11.2',
         status: false,
-        name: 'basicBot',
+        name: 'AntiSociopatų Botas',
         loggedInID: null,
         scriptLink: 'https://rawgit.com/basicBot/source/master/basicBot.js',
         cmdLink: 'http://git.io/245Ppg',
@@ -258,7 +258,7 @@
         retrieveSettings: retrieveSettings,
         retrieveFromStorage: retrieveFromStorage,
         settings: {
-            botName: 'basicBot',
+            botName: 'AntiSociopatų Botas',
             language: 'lithuanian',
             chatLink: 'https://rawgit.com/basicBot/source/master/lang/en.json',
             scriptLink: 'https://rawgit.com/basicBot/source/master/basicBot.js',
