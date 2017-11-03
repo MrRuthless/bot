@@ -174,7 +174,7 @@
     "currentbotname": "\/me Bot'o vardas dabar yra nustatytas \u012f: %%BOTNAME%%",
     "botnameset": "\/me Bot'o vardas dabar yra nustatytas \u012f: %%BOTNAME%%",
     "addbotwaitlist": "\/me @%%NAME%%, nebandyk prid\u0117ti man\u0119s \u012f waitlist'\u0105, pra\u0161au.",
-    "move": "\/me [%%NAME%% panaudojo move]",
+    "move": "\/me [%%NAME%% per daug ahujela ir panaudojo move]",
     "mutednotime": "\/me [@%%NAME%%] U\u017etild\u0117 @%%USERNAME%%.",
     "mutedmaxtime": "\/me [@%%NAME%%] Tu gali u\u017etildyti daugiausiai %%TIME%% minutemis.",
     "mutedtime": "\/me [@%%NAME%%] U\u017etild\u0117 @%%USERNAME%% laikotarpiui: %%TIME%% minutes.",
