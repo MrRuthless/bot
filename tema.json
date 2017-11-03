@@ -27,7 +27,7 @@
 		"you":              "0AF"
 	},
 	"images": {
-		"background":       "http://kokteli.hr/wp-content/uploads/2015/06/vodka-800x600.jpg",
+		"background":       "null",
 		"playback":         "null",
 		"admin":            "null",
 		"ambassador":       "null",
