@@ -248,7 +248,7 @@
     var basicBot = {
         version: '2.11.2',
         status: false,
-        name: 'basicBot',
+        name: 'AntiSociopatų Botas',
         loggedInID: null,
         scriptLink: 'https://rawgit.com/basicBot/source/master/basicBot.js',
         cmdLink: 'http://git.io/245Ppg',
@@ -258,13 +258,13 @@
         retrieveSettings: retrieveSettings,
         retrieveFromStorage: retrieveFromStorage,
         settings: {
-            botName: 'basicBot',
-            language: 'english',
+            botName: 'AntiSociopatų Botas',
+            language: 'lithuanian',
             chatLink: 'https://rawgit.com/basicBot/source/master/lang/en.json',
             scriptLink: 'https://rawgit.com/basicBot/source/master/basicBot.js',
             roomLock: false, // Requires an extension to re-load the script
-            startupCap: 1, // 1-200
-            startupVolume: 0, // 0-100
+            startupCap: 10, // 1-200
+            startupVolume: 50, // 0-100
             startupEmoji: false, // true or false
             autowoot: true,
             autoskip: false,
@@ -325,7 +325,7 @@
             }
         },
         room: {
-            name: null,
+            name: Anti-Sociopatai,
             chatMessages: [],
             users: [],
             afkList: [],
