@@ -188,7 +188,7 @@
     "sessionstats": "\/me [@%%NAME%%] Woot'ai: %%WOOTS%%, Meh'ai: %%MEHS%%, Pa\u010diupimai: %%GRABS%%.",
     "forceskip": "\/me [%%NAME%% panaudojo greit\u0105j\u012f skip]",
     "madeby": "\/me \u0160is bot'as buvo sukurtas %%NAME%%.",
-    "activefor": "A\u0161 pzda kaip ilgai buvau aktyvus %%TIME%%.",
+    "activefor": "A\u0161 buvau aktyvus %%TIME%%.",
     "swapinvalid": "\/me [@%%NAME%%] Netaisyklingas narys nurodytas. (N\u0117ra vard\u0173 su tarpais!)",
     "swapwlonly": "\/me [@%%NAME%%] Pra\u0161au keisk narius kurie yra waitlist'e!",
     "swapping": "\/me Kei\u010diamas %%NAME1%% su %%NAME2%%.",
