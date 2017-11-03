@@ -1,0 +1,45 @@
+{
+	"room": "Anti-Sociopatai",
+	"author": "-Mr. Ruthless",
+	"icon": "",
+	"css": "//dl.dropboxusercontent.com/s/shw9gtvr2mwjm2f/loader.css",
+	"rules": {
+		"allowAutorespond": true,
+		"allowAutowoot":    true,
+		"allowAutojoin":    true,
+		"allowAutograb":    true,
+		"allowSmartVote":   true,
+		"allowEmotes":      true,
+		"allowShowingMehs": true,
+		"forceSmartVote":   false
+	},
+	"ccc": {
+		"admin":            "#AD1F1F",
+		"ambassador":       "#E9812D",
+		"host":             "#e60000",
+		"cohost":           "#e60000",
+		"manager":          "#3373CC",
+		"bouncer":          "#33cc33",
+		"rdj":              "#AC58FA",
+		"subscriber":       "#8694b2",
+		"silversubscriber": "#8694b2",
+		"friend":           "#A68CD9",
+		"you":              "0AF"
+	},
+	"images": {
+		"background":       "http://i.picresize.com/chWE",
+		"playback":         "null",
+		"admin":            "https://dl.dropboxusercontent.com/s/cq80sqhvj2d5nju/admin.png",
+		"ambassador":       "https://dl.dropboxusercontent.com/s/cx6yrfbqlzwnks1/ba.png",
+		"host":             "https://dl.dropboxusercontent.com/s/5rwpzeq44vdf0ab/rank_host.png",
+		"cohost":           "https://dl.dropboxusercontent.com/s/s4fkdvc24kmh4g0/rank_cohost.png",
+		"manager":          "https://dl.dropboxusercontent.com/s/9p2h0ym92fkmbtc/rank_manager.png",
+		"bouncer":          "https://dl.dropboxusercontent.com/s/pqnxhp80xsat66w/rank_bouncer.png",
+		"rdj":              "https://dl.dropboxusercontent.com/s/xjcdlak5xraphss/rank_dj.png",
+		"subscriber":       "http://i.imgur.com/gYyGQel.png",
+		"silversubscriber": "http://i.imgur.com/nFbwvVJ.png"
+	},
+	"emotes": {
+		"emote_name": null
+	}
+}
