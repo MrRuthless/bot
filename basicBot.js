@@ -258,7 +258,7 @@
         retrieveSettings: retrieveSettings,
         retrieveFromStorage: retrieveFromStorage,
         settings: {
-            botName: 'AntiSociopatų Botas',
+            botName: 'basicBot',
             language: 'lithuanian',
             chatLink: 'https://rawgit.com/basicBot/source/master/lang/en.json',
             scriptLink: 'https://rawgit.com/basicBot/source/master/basicBot.js',
@@ -325,7 +325,7 @@
             }
         },
         room: {
-            name: Anti-Sociopatai,
+            name: null,
             chatMessages: [],
             users: [],
             afkList: [],
