@@ -248,7 +248,7 @@
     var basicBot = {
         version: '2.11.2',
         status: false,
-        name: 'AntiSociopatų Botas',
+        name: 'basicBot',
         loggedInID: null,
         scriptLink: 'https://rawgit.com/basicBot/source/master/basicBot.js',
         cmdLink: 'http://git.io/245Ppg',
