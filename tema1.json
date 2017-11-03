@@ -2,8 +2,7 @@
 	"room": "Anti-Sociopatai",
 	"author": "-Mr. Ruthless",
 	"icon": "",
-	"css": "//dl.dropboxusercontent.com/s/shw9gtvr2mwjm2f/loader.css;
-	@import url(https://codepen.io/suriukas/pen/KyzNNM.css);",
+	"css": "//dl.dropboxusercontent.com/s/shw9gtvr2mwjm2f/loader.css;",
 	"rules": {
 		"allowAutorespond": true,
 		"allowAutowoot":    true,
