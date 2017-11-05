@@ -16,7 +16,7 @@
 	"ccc": {
 		"admin":            "#AD1F1F",
 		"ambassador":       "#E9812D",
-		"host":             "#e60000",
+		"host":             "#ff9933",
 		"cohost":           "#e60000",
 		"manager":          "#3373CC",
 		"bouncer":          "#33cc33",
@@ -31,7 +31,7 @@
 		"playback":         "null",
 		"admin":            "null",
 		"ambassador":       "null",
-		"host":             "https://image.ibb.co/fne0vw/HOSTCO.png",
+		"host":             "https://i.imgur.com/LaiPfo7.png",
 		"cohost":           "https://image.ibb.co/fne0vw/HOSTCO.png",
 		"manager":          "https://i.imgur.com/5oTLCaO.png",
 		"bouncer":          "https://i.imgur.com/cbecGb0.png",
