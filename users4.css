@@ -29,6 +29,9 @@
 	background: url(https://i.imgur.com/rc86p1s.gif)
         center no-repeat!important;
 }
+
+
+
 /*============silent-============* Badge
 
 #chat-messages .id-17826818 .badge-box i.bdg
@@ -41,3 +44,20 @@
 	background: url(https://i.imgur.com/vQZJxHY.png)
         center no-repeat!important;
 }
+
+
+
+/*============Slibinas============* Badge
+
+#chat-messages .id-4117028 .badge-box i.bdg
+{
+        background-image:       url('https://imgur.com/a/JKH1K');
+        background-size:        cover;
+}
+
+#user-rollover.id-4117028 .info .badge-box .bdg {
+	background: url(https://imgur.com/a/JKH1K)
+        center no-repeat!important;
+}
+
+
