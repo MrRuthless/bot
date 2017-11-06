@@ -1,0 +1,60 @@
+
+/* uhlowa */
+#chat [data-cid^="3565885-"] .un,
+#user-lists .list.room .role-host.id-3565885 .name {
+	text-shadow: 0 0 10px;
+}
+
+/* bassmusicnetwork.com */
+#chat [data-cid^="27748074-"] {
+	background: hsla(0,0%,20%,.9) !important;
+	box-shadow: inset 0 0 0 1px hsla(0,0%,100%,.2) !important;
+}
+#chat [data-cid^="27748074-"] .un:after {
+	content: 'BOT';
+	color: #EEE;
+	margin-left: 5px;
+	padding: 0px 2px;
+
+	background: linear-gradient(#333, #222);
+	box-shadow: 0 0 1px;
+	border-radius: 3px;
+}
+#chat [data-cid^="27748074-"] .un:after {
+	display: inline-block;
+	transform: scale(0.8);
+}
+#user-lists .list .user.id-3896066 .name:after,
+#user-rollover.id-3896066 .meta .username:after,
+#chat [data-cid^='3896066-'] .un:after {
+    content: "BOSS";
+    margin-left: 5px;
+    background: rgba(0,0,0,.3);
+    padding: 0px 5px;
+    border: 1px solid rgba(206,10,10,.5);
+    border-radius: 5px;
+    color: #ce0a0a;
+    font-size: 10px;
+}
+
+/*===================================== Naudotojo valdyba */
+#user-rollover.id-3896066 .meta .thumb {
+    border-color: rgba(206,10,10,.8) !important;
+}
+
+
+/*============Domas============* Badge
+
+
+
+ /* Domas */
+#chat-messages .id-6310947 .badge-box i.bdg
+{
+        background-image:       url('https://i.imgur.com/rc86p1s.gif');
+        background-size:        cover;
+}
+
+#user-rollover.id-6310947 .info .badge-box .bdg {
+	background: url(https://i.imgur.com/rc86p1s.gif)
+        center no-repeat!important;
+}
