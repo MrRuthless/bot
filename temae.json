@@ -2,7 +2,7 @@
 	"room": "Anti-Sociopatai",
 	"author": "-Mr. Ruthless",
 	"icon": "",
-	"css": "//rawgit.com/MrRuthless/bot/master/css3",
+	"css": "//rawgit.com/MrRuthless/bot/master/cssT",
 	"rules": {
 		"allowAutorespond": true,
 		"allowAutowoot":    true,
