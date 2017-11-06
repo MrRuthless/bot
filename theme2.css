@@ -282,3 +282,6 @@
 	background: linear-gradient(to right, hsl(260,40%,60%), hsl(260,40%,40%));
 	box-shadow: inset 0 0 5px hsla(0,0%,100%,.3);
 }
+.description.panel .value a[href*=".json"] {
+    display: none;
+}
