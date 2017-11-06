@@ -62,21 +62,74 @@
 
 
 
-/*============Slibinas============* Badge
+/*============-karolite_liudeselis============* Badge
 
 
- /* Slibinas */
-#chat-messages .id-4117028 .badge-box i.bdg
+ /* -karolite_liudeselis */
+#chat-messages .id-6381024 .badge-box i.bdg
 {
-        background-image:       url('https://i.imgur.com/t8SDyDV.png');
+        background-image:       url('https://i.imgur.com/xihfA3z.jpg');
         background-size:        cover;
 }
 
-#user-rollover.id-4117028 .info .badge-box .bdg {
-	background: url(https://i.imgur.com/t8SDyDV.png)
+#user-rollover.id-6381024 .info .badge-box .bdg {
+	background: url(https://i.imgur.com/xihfA3z.jpg)
         center no-repeat!important;
 }
 
+
+
+
+/*============Rudeninė Pandutė============* Badge
+
+
+ /* Rudeninė Pandutė */
+#chat-messages .id-4133404 .badge-box i.bdg
+{
+        background-image:       url('https://imgur.com/gallery/4aex4');
+        background-size:        cover;
+}
+
+#user-rollover.id-4133404 .info .badge-box .bdg {
+	background: url(https://imgur.com/gallery/4aex4)
+        center no-repeat!important;
+}
+
+
+
+
+/*============-Tomyoo============* Badge
+
+
+ /* -Tomyoo */
+#chat-messages .id-3635634 .badge-box i.bdg
+{
+        background-image:       url('https://i.imgur.com/dbItMNQ.jpg');
+        background-size:        cover;
+}
+
+#user-rollover.id-3635634 .info .badge-box .bdg {
+	background: url(https://i.imgur.com/dbItMNQ.jpg)
+        center no-repeat!important;
+}
+
+
+
+
+/*============-Antitė-============* Badge
+
+
+ /* -Antitė */
+#chat-messages .id-28854785 .badge-box i.bdg
+{
+        background-image:       url('https://i.imgur.com/BbmLjUX.png');
+        background-size:        cover;
+}
+
+#user-rollover.id-28854785 .info .badge-box .bdg {
+	background: url(https://i.imgur.com/BbmLjUX.png)
+        center no-repeat!important;
+}
 
 
 
