@@ -86,12 +86,12 @@
  /* Rudeninė Pandutė */
 #chat-messages .id-4133404 .badge-box i.bdg
 {
-        background-image:       url('https://imgur.com/gallery/4aex4');
+        background-image:       url('https://i.imgur.com/7l0Drsx.gif');
         background-size:        cover;
 }
 
 #user-rollover.id-4133404 .info .badge-box .bdg {
-	background: url(https://imgur.com/gallery/4aex4)
+	background: url(https://i.imgur.com/7l0Drsx.gif)
         center no-repeat!important;
 }
 
@@ -116,7 +116,7 @@
 
 
 
-/*============-Antitė-============* Badge
+/*============-Antitė============* Badge
 
 
  /* -Antitė */
@@ -132,6 +132,40 @@
 }
 
 
+
+
+/*============-BlackWhiteTiger============* Badge
+
+
+ /* -BlackWhiteTiger */
+#chat-messages .id-3721161 .badge-box i.bdg
+{
+        background-image:       url('https://i.imgur.com/UGSYxOe.png');
+        background-size:        cover;
+}
+
+#user-rollover.id-3721161 .info .badge-box .bdg {
+	background: url(https://i.imgur.com/UGSYxOe.png)
+        center no-repeat!important;
+}
+
+
+
+
+/*============Pandele-============* Badge
+
+
+ /* Pandele- */
+#chat-messages .id-4281529 .badge-box i.bdg
+{
+        background-image:       url('https://i.imgur.com/tZ47sGw.jpg');
+        background-size:        cover;
+}
+
+#user-rollover.id-4281529 .info .badge-box .bdg {
+	background: url(https://i.imgur.com/tZ47sGw.jpg)
+        center no-repeat!important;
+}
 
 
 
