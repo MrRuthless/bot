@@ -21,6 +21,12 @@
 
 
 
+/*Akira Luna*/
+[data-cid^="4652147"].cm .msg .from .un, #user-lists .list .role-manager.id-4652147 .name {
+  color: rgba(244, 0, 188, 1) !important;
+
+
+
 
 
 
@@ -214,6 +220,23 @@
         center no-repeat!important;
 }
 
+	
+	
+	
+/*============Slibins============* Badge
+
+
+ /* Slibins */
+#chat-messages .id-4117028 .badge-box i.bdg
+{
+        background-image:       url('https://i.imgur.com/a/CPChQ');
+        background-size:        cover;
+}
+
+#user-rollover.id-4117028 .info .badge-box .bdg {
+	background: url(https://i.imgur.com/a/CPChQ)
+        center no-repeat!important;
+}
 
 
 
