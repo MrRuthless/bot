@@ -78,8 +78,6 @@
     position: absolute;
     top: 6px;
     left: 228px;
-    border: 1px solid rgba(172, 118, 255,.3);
-    border-radius: 3px;
     color: #ff9679;
     font-weight: bold;
     font-size: 13px;
@@ -142,6 +140,25 @@
   padding: 3px 0 3px 10px;
   border-radius: 10px 0 0 10px;
 }
+
+
+
+
+
+
+/* BOSAS */
+
+#user-rollover.id-3896066 .info .badge-box:after {
+    content: "BOSAS";
+    position: absolute;
+    top: 6px;
+    left: 228px;
+    color: #ce0a0a;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+
 
 
 
