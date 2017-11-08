@@ -98,10 +98,10 @@
 
 
 
-/*============Silent============* Badge
+/*============silent============* Badge
 
 
- /* Silent */
+ /* silent */
 #chat-messages .id-17826818 .badge-box i.bdg
 {
         background-image:       url('https://i.imgur.com/vQZJxHY.png');
@@ -230,12 +230,12 @@
  /* Slibins */
 #chat-messages .id-4117028 .badge-box i.bdg
 {
-        background-image:       url('https://i.imgur.com/a/CPChQ');
+        background-image:       url('https://i.imgur.com/qaZKFB5.gif');
         background-size:        cover;
 }
 
 #user-rollover.id-4117028 .info .badge-box .bdg {
-	background: url(https://i.imgur.com/a/CPChQ)
+	background: url(https://i.imgur.com/qaZKFB5.gif)
         center no-repeat!important;
 }
 
