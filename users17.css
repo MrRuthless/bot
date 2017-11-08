@@ -78,7 +78,7 @@
     position: absolute;
     top: 6px;
     left: 228px;
-    color: #660033;
+    color: #ff9679;
     font-weight: bold;
     font-size: 13px;
 }
@@ -90,7 +90,7 @@
 /* BOT */
 #chat-messages [data-cid^="31911880-"] .timestamp,
 #chat [data-cid^="31911880-"].emote .timestamp {
-    color: #660033 !important;
+    color: #ff9679 !important;
 }
 
 #user-lists .list .user.id-31911880 .name:after,
@@ -102,12 +102,12 @@
     padding: 0px 5px;
     border: 1px solid rgba(172, 118, 255,.3);
     border-radius: 3px;
-    color: #660033;
+    color: #ff9679;
     font-size: 8px;
 }
 
 #chat [data-cid^="31911880-"].message .timestamp {
-    color: #660033 !important;
+    color: #ff9679 !important;
 }
 
 #chat [data-cid^="31911880-"] .icon,
@@ -119,7 +119,7 @@
 #user-lists .list .user.id-31911880 .name,
 #user-rollover.id-31911880 .username,
 #chat [data-cid^='31911880-'] .un {
-    color: #660033 !important;
+    color: #ff9679 !important;
 }
 
 #chat-messages [data-cid^="31911880-"] .text {
