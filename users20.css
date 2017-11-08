@@ -147,6 +147,9 @@
 
 
 /* BOSAS */
+#user-rollover.is-staff.id-3896066 .info .role span {
+    display: none;
+}
 
 #user-rollover.id-3896066 .info .badge-box:after {
     content: "BOSAS";
