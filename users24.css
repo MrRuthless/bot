@@ -151,17 +151,25 @@
     display: none;
 }
 
+#user-rollover.id-3896066 .level:after {
+    position: absolute;
+    content: url('https://i.imgur.com/37DKHbs.png');
+    left: 170px;
+    top: 3px;
+}
+
 #user-rollover.id-3896066 .info .badge-box:after {
-    content: "BOSAS";
+    content: "Boss'as";
     position: absolute;
     top: 6px;
-    left: 228px;
+    left: 227px;
     color: #ce0a0a;
     font-weight: bold;
     font-size: 15px;
 }
 
-#user-rollover.id-31911880 .info .role i {
+
+#user-rollover.id-3896066 .info .role i {
   display: none;
 }
 
