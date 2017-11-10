@@ -198,7 +198,7 @@
 }
 .icon-chat-host ~ span,
 #dialog-user-role .role-menu .menu ul .host span {
-	color: #5a3574 !important;
+	color: #ffffff !important;
 }
 /* --[MENTION]-- */
 #chat .mention.role-host {
@@ -208,7 +208,7 @@
 }
 #chat .mention.role-host .name,
 #chat .mention.role-host .timestamp {
-	color: #5a3574 !important;
+	color: #ffffff !important;
 }
 /*
  ┌————————————————————┐
