@@ -126,10 +126,10 @@
 	!important;
 }
 #chat .cm:nth-child(odd) {
-	background: rgba(10,10,10,.8);
+	background: null;
 }
 #chat .cm:nth-child(even) {
-	background: rgba(25,25,25,.8);
+	background: null;
 }
 
 
