@@ -262,7 +262,7 @@
  separated from roles to
  maintain correct priorities */
 #user-lists .group.host {
-	color: #53a5f7;
+	color: #ffffff;
 	background: linear-gradient(to right, hsla(210,100%,30%,.5), hsla(210,100%,40%,.5)) !important;
 
 	top: 1px;
@@ -271,7 +271,7 @@
 }
 #user-lists .group.host ~ .user:nth-child(2) .name,
 #chat .msg .text span.name.host {
-	color: #53a5f7;
+	color: #ffffff;
 	/* Making the host list being all co-host color &
 	   only the first having host color allows room to
 	   have as much co-hosts they want */
