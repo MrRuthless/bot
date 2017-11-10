@@ -75,7 +75,7 @@
 }
 #chat .mention.role-silver-subscriber .name,
 #chat .mention.role-silver-subscriber .timestamp {
-	color: hsl(220,20%,60%) !important;
+	color: #8694b2 !important;
 }
 /*
  ┌————————————————————┐
@@ -87,7 +87,7 @@
 	background: url(http://i.imgur.com/gYyGQel.png) 0 0 / 15px no-repeat !important;
 }
 .icon-chat-subscriber ~ span {
-	color: #c59840 !important;
+	color: #8694b2 !important;
 }
 */
 /* --[MENTION]-- */
@@ -98,7 +98,7 @@
 }
 #chat .mention.role-subscriber .name,
 #chat .mention.role-subscriber .timestamp {
-	color: hsl(40,80%,45%) !important;
+	color: #8694b2 !important;
 }
 /*
  ┌————————————————————┐
@@ -110,7 +110,7 @@
 }
 .icon-chat-dj ~ span,
 #dialog-user-role .role-menu .menu ul .dj span {
-	color: #AC76FF !important;
+	color: #b3b3b3 !important;
 }
 /* --[MENTION]-- */
 #chat .mention.role-dj {
@@ -120,7 +120,7 @@
 }
 #chat .mention.role-dj .name,
 #chat .mention.role-dj .timestamp {
-	color: hsl(264,100%,75%) !important;
+	color: #b3b3b3 !important;
 }
 /*
  ┌————————————————————┐
@@ -132,7 +132,7 @@
 }
 .icon-chat-bouncer ~ span,
 #dialog-user-role .role-menu .menu ul .bouncer span {
-	color: #786CDA !important;
+	color: #FACC2E !important;
 }
 /* --[MENTION]-- */
 #chat .mention.role-bouncer {
@@ -142,7 +142,7 @@
 }
 #chat .mention.role-bouncer .name,
 #chat .mention.role-bouncer .timestamp {
-	color: hsl(248,100%,75%) !important;
+	color: #FACC2E !important;
 }/*
  ┌————————————————————┐
  │   Role: MANAGER    │
@@ -153,7 +153,7 @@
 }
 .icon-chat-manager ~ span,
 #dialog-user-role .role-menu .menu ul .manager span {
-	color: #4B63B9 !important;
+	color: #990000 !important;
 }
 /* --[MENTION]-- */
 #chat .mention.role-manager {
@@ -163,7 +163,7 @@
 }
 #chat .mention.role-manager .name,
 #chat .mention.role-manager .timestamp {
-	color: hsl(227,50%,50%) !important;
+	color: #990000 !important;
 }
 /*
  ┌————————————————————┐
@@ -176,7 +176,7 @@
 .icon-chat-cohost ~ span,
 #dialog-user-role .dialog-body .role-menu .menu ul .cohost span,
 .role-cohost .un {
-	color: #3373cc !important;
+	color: #ffffff !important;
 }
 /* --[MENTION]-- */
 #chat .mention.role-cohost {
@@ -186,7 +186,7 @@
 }
 #chat .mention.role-cohost .name,
 #chat .mention.role-cohost .timestamp {
-	color: hsl(215,70%,60%) !important;
+	color: #ffffff !important;
 }
 /*
  ┌————————————————————┐
@@ -198,7 +198,7 @@
 }
 .icon-chat-host ~ span,
 #dialog-user-role .role-menu .menu ul .host span {
-	color: hsl(210, 91%, 65%) !important;
+	color: #5a3574 !important;
 }
 /* --[MENTION]-- */
 #chat .mention.role-host {
@@ -208,7 +208,7 @@
 }
 #chat .mention.role-host .name,
 #chat .mention.role-host .timestamp {
-	color: hsl(210,90%,70%) !important;
+	color: #5a3574 !important;
 }
 /*
  ┌————————————————————┐
