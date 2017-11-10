@@ -14,7 +14,7 @@
 	display: url(https://i.imgur.com/dDqL8N6.jpg) 0 0 / 1600px 900px no-repeat !important;;
 }
 #playback .background {
-	background: url(https://dl.dropboxusercontent.com/s/59fnfbk24s8l6zm/playback.png) 0 0 / cover no-repeat;
+	background: null;
 
 	width: 874px; height: 329px;
 	left: -196px; top: 0;
