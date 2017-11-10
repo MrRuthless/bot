@@ -62,7 +62,7 @@
  └————————————————————┘
 */
 .icon-chat-silver-subscriber {
-	background: url(https://dl.dropboxusercontent.com/s/kefbomt6js2ah42/silver.png) 0 0 / 15px no-repeat !important;
+	background: url(http://i.imgur.com/nFbwvVJ.png) 0 0 / 15px no-repeat !important;
 }
 .icon-chat-silver-subscriber ~ span {
 	color: #8694b2 !important;
@@ -84,7 +84,7 @@
 */
 /*
 .icon-chat-subscriber {
-	background: url(https://dl.dropboxusercontent.com/s/u8nrny8q8h680j0/sub.png) 0 0 / 15px no-repeat !important;
+	background: url(http://i.imgur.com/gYyGQel.png) 0 0 / 15px no-repeat !important;
 }
 .icon-chat-subscriber ~ span {
 	color: #c59840 !important;
@@ -106,7 +106,7 @@
  └————————————————————┘
 */
 .icon-chat-dj {
-	background: url(https://dl.dropboxusercontent.com/s/xjcdlak5xraphss/rank_dj.png) 0 0 / 15px no-repeat !important;
+	background: url(https://i.imgur.com/KJC6J8C.png) 0 0 / 15px no-repeat !important;
 }
 .icon-chat-dj ~ span,
 #dialog-user-role .role-menu .menu ul .dj span {
@@ -128,7 +128,7 @@
  └————————————————————┘
 */
 .icon-chat-bouncer {
-	background: url(https://dl.dropboxusercontent.com/s/pqnxhp80xsat66w/rank_bouncer.png) 0 0 / 15px no-repeat !important;
+	background: url(https://i.imgur.com/8plo73x.png) 0 0 / 15px no-repeat !important;
 }
 .icon-chat-bouncer ~ span,
 #dialog-user-role .role-menu .menu ul .bouncer span {
@@ -149,7 +149,7 @@
  └————————————————————┘
 */
 .icon-chat-manager {
-	background: url(https://dl.dropboxusercontent.com/s/9p2h0ym92fkmbtc/rank_manager.png) 0 0 / 15px no-repeat !important;
+	background: url(https://i.imgur.com/LKl1TjV.png) 0 0 / 15px no-repeat !important;
 }
 .icon-chat-manager ~ span,
 #dialog-user-role .role-menu .menu ul .manager span {
@@ -171,7 +171,7 @@
  └————————————————————┘
 */
 .icon-chat-cohost {
-	background: url(https://dl.dropboxusercontent.com/s/s4fkdvc24kmh4g0/rank_cohost.png) 0 0 / 15px no-repeat !important;
+	background: url(https://i.imgur.com/O7Eb30Z.png) 0 0 / 15px no-repeat !important;
 }
 .icon-chat-cohost ~ span,
 #dialog-user-role .dialog-body .role-menu .menu ul .cohost span,
@@ -194,7 +194,7 @@
  └————————————————————┘
 */
 .icon-chat-host {
-	background: url(https://dl.dropboxusercontent.com/s/5rwpzeq44vdf0ab/rank_host.png) 0 0 / 15px no-repeat !important;
+	background: url(https://i.imgur.com/LaiPfo7.png) 0 0 / 15px no-repeat !important;
 }
 .icon-chat-host ~ span,
 #dialog-user-role .role-menu .menu ul .host span {
@@ -279,42 +279,42 @@
 /* Co-hosts */
 #user-lists .group.host ~ .user .name,
 #chat .msg .text span.name.cohost {
-	color: #3373cc;
+	color: #ffffff;
 }
 /* Managers */
 #user-lists .group.manager {
-	color: #4B63B9;
+	color: #990000;
 }
 #user-lists .group.manager ~ .user .name,
 #user-lists .user.role-manager .name,
 #chat .msg .text span.name.manager {
-	color: #4B63B9;
+	color: #990000;
 }
 /* Bouncers */
 #user-lists .group.bouncer {
-	color: #786CDA;
+	color: #FACC2E;
 }
 #user-lists .group.bouncer ~ .user .name,
 #user-lists .user.role-bouncer .name,
 #chat .msg .text span.name.bouncer {
-	color: #786CDA;
+	color: #FACC2E;
 }
 /* DJs */
 #user-lists .group.dj {
-	color: #AC76FF;
+	color: #b3b3b3;
 }
 #user-lists .group.dj ~ .user .name,
 #chat .msg .text .name.rdj {
-	color: #AC76FF;
+	color: #b3b3b3;
 }
 /* Gold sub */
 #user-lists .user:not(.is-staff) .icon-chat-subscriber + .name,
 #chat .promo .from .un {
-	/* color: #FB3; */
+	/* color: #8694b2; */
 }
 /* Silver sub */
 #user-lists .user:not(.is-staff) .icon-chat-silver-subscriber + .name {
-	color: hsl(220,25%,70%);
+	color: #8694b2;
 }
 /*
  ┌————————————————————┐
