@@ -348,6 +348,40 @@
 
 
 
+/*============Ratas Ir Kvadratas============* Badge
+
+
+ /* Ratas Ir Kvadratas */
+#chat-messages .id-3554636 .badge-box i.bdg
+{
+        background-image:       url('https://i.imgur.com/U49DsR7.png');
+        background-size:        cover;
+}
+
+#user-rollover.id-3554636 .info .badge-box .bdg {
+	background: url(https://i.imgur.com/U49DsR7.png)
+        center no-repeat!important;
+}
+
+
+
+
+/*============- Sheriff============* Badge
+
+
+ /* - Sheriff */
+#chat-messages .id-3611882 .badge-box i.bdg
+{
+        background-image:       url('https://i.imgur.com/iNOAqrX.png');
+        background-size:        cover;
+}
+
+#user-rollover.id-3611882 .info .badge-box .bdg {
+	background: url(https://i.imgur.com/iNOAqrX.png)
+        center no-repeat!important;
+}
+
+
 
 
 
