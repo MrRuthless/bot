@@ -131,6 +131,34 @@
 #chat .cm:nth-child(even) {
 	background: null;
 }
+#chat .cm {
+	animation: fadein 0.2s;
+}
+#chat .cm {
+	background: linear-gradient(hsla(220,10%,20%,0.5), hsla(220,10%,15%,0.5));
+	box-shadow: inset 1px 1px 0 hsla(220,10%,20%,0.8);
+}
+#chat .cm.message:nth-child(odd) {
+	background: linear-gradient(hsla(220,10%,10%,0.5), hsla(220,10%,12%,0.5));
+	box-shadow: inset 1px 1px 0 hsla(220,10%,5%,0.8);
+	color: #ccc;
+}
+#chat .cm.message .timestamp {
+	color: #818285;
+}
+#chat .cm .badge-box {
+	background: transparent !important;
+}
+#chat .cm .delete-button {
+	border-radius: 4px;
+	background: linear-gradient(hsl(0,0%,30%), hsl(0,0%,40%));
+	box-shadow: inset 0 0 0 1px hsl(0,0%,50%);
+}
+#chat .cm .delete-button:hover {
+	background: linear-gradient(hsl(5,100%,60%), hsl(5,100%,50%));
+	box-shadow: 0 0 10px hsl(5,100%,50%);
+	color: #000;
+}
 
 
 /*tooltips*/
