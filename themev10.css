@@ -113,15 +113,15 @@
 	transition: all .25s linear;
 	background: none !important;
 	box-shadow:
-		inset 0 0 0 20px rgba(0,0,0,.5),
-		inset 0 0 0 1px #000,
+		inset 0 0 0 20px,
+		inset 0 0 0 1px,
 		0 0 0 #000
 	!important;
 }
 #chat .focused {
 	box-shadow:
-		inset 0 0 0 20px rgba(30,30,30,.8),
-		inset 0 0 0 1px #EEE,
+		inset 0 0 0 20px,
+		inset 0 0 0 1px,
 		0 0 5px #EEE
 	!important;
 }
@@ -135,7 +135,7 @@
 
 /*tooltips*/
 #tooltip span, #tooltip.blue span {
-	background: rgba(150,150,150,.8) !important;
+	background: null;
 }
 #tooltip .corner {
 	border-top: 10px solid transparent !important;
