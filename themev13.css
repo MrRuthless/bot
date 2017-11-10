@@ -1,4 +1,4 @@
-/* Making sure the json gets applied */
+/* Created by -Mr. Ruthless */
 .icon-room {
 	width: 84px;
 	top: 14px !important; left: 5px !important;
@@ -159,7 +159,72 @@
 	box-shadow: 0 0 10px hsl(5,100%,50%);
 	color: #000;
 }
-
+}
+}/*@@@@@(HOST)@@@@@*/
+.icon-chat-host {
+	background: url(https://i.imgur.com/O7Eb30Z.png);
+	background-position: 2px 0 !important;
+}
+.icon-chat-host + span,
+#user-lists .group.host ~ .user span,
+#dialog-user-role .role-menu .menu ul .host span {
+	color: #ffffff !important;
+}
+#user-lists .group.host {
+	color: #ffffff;
+	background: linear-gradient(to right, hsla(0, 0%, 100%, 0.5), hsla(0, 0%, 100%, 0.5)) !important;
+	top: 1px;
+}
+/*@@@@@(CO-HOSTS)@@@@@*/
+.icon-chat-cohost {
+	background: url(https://i.imgur.com/O7Eb30Z.png);
+	background-position: 2px 0 !important;
+}
+.icon-chat-cohost + span,
+#dialog-user-role .dialog-body .role-menu .menu ul .cohost span {
+	color: #ffffff !important;
+}
+}/*@@@@@(MANAGER)@@@@@*/
+.icon-chat-manager {
+	background: url(https://i.imgur.com/LKl1TjV.png);
+	background-position: 2px 0 !important;
+}
+.icon-chat-manager + span,
+#user-lists .group.manager ~ .user span,
+#dialog-user-role .role-menu .menu ul .manager span {
+	color: #990000 !important;
+}
+#user-lists .group.manager {
+	color: #990000;
+	background: linear-gradient(to right, hsla(0,100%,20%,.5), hsla(0,100%,30%,.5)) !important;
+}/*@@@@@(BOUNCER)@@@@@*/
+.icon-chat-bouncer {
+	background: url(https://i.imgur.com/8plo73x.png);
+	background-position: 1px 0 !important;
+}
+.icon-chat-bouncer + span,
+#user-lists .group.bouncer ~ .user span,
+#dialog-user-role .role-menu .menu ul .bouncer span {
+	color: #FACC2E !important;
+}
+#user-lists .group.bouncer {
+	color: #FACC2E;
+	background: linear-gradient(to right, hsla(52, 100%, 40%, 0.5), hsla(52, 100%, 50%, 0.5)) !important;
+}
+}/*@@@@@(DJ)@@@@@*/
+.icon-chat-dj {
+	background: url(https://i.imgur.com/KJC6J8C.png);
+	background-position: 0 0 !important;
+}
+#user-lists .group.dj {
+	color: #b3b3b3;
+	background: linear-gradient(to right, hsla(0, 0%, 19%, 0.65), hsla(0, 0%, 19%, 0.65)) !important;
+}
+.icon-chat-dj + span,
+#user-lists .group.dj ~ .user span,
+#dialog-user-role .role-menu .menu ul .dj span {
+	color: #b3b3b3 !important;
+}
 
 /*tooltips*/
 #tooltip span, #tooltip.blue span {
