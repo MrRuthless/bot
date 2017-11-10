@@ -263,11 +263,6 @@
  maintain correct priorities */
 #user-lists .group.host {
 	color: #ffffff;
-	background: linear-gradient(to right, hsla(210,100%,30%,.5), hsla(210,100%,40%,.5)) !important;
-
-	top: 1px;
-	border: none !important;
-	box-shadow: 0 0 1px 1px;
 }
 #user-lists .group.host ~ .user:nth-child(2) .name,
 #chat .msg .text span.name.host {
