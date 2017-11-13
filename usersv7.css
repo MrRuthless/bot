@@ -26,6 +26,11 @@
   color: rgba(244, 0, 188, 1) !important;
 }
 
+/*- Sheriff*/
+[data-cid^="3611882"].cm .msg .from .un, #user-lists .list .role-manager.id-43611882 .name {
+  color: #FF1493 !important;
+}
+
 
 
 
@@ -372,12 +377,30 @@
  /* - Sheriff */
 #chat-messages .id-3611882 .badge-box i.bdg
 {
-        background-image:       url('https://i.imgur.com/iNOAqrX.png');
+        background-image:       url('https://i.imgur.com/Q91GQFn.png');
         background-size:        cover;
 }
 
 #user-rollover.id-3611882 .info .badge-box .bdg {
-	background: url(https://i.imgur.com/iNOAqrX.png)
+	background: url(hhttps://i.imgur.com/Q91GQFn.png)
+        center no-repeat!important;
+}
+
+
+
+
+/*============Puukjeens============* Badge
+
+
+ /* Puukjeens */
+#chat-messages .id-4734845 .badge-box i.bdg
+{
+        background-image:       url('https://i.imgur.com/anNvkWJ.jpg');
+        background-size:        cover;
+}
+
+#user-rollover.id-4734845 .info .badge-box .bdg {
+	background: url(https://i.imgur.com/anNvkWJ.jpg)
         center no-repeat!important;
 }
 
