@@ -407,6 +407,24 @@
 
 
 
+/*============RūkytiSveika============* Badge
+
+
+ /* RūkytiSveika */
+#chat-messages .id-28631750 .badge-box i.bdg
+{
+        background-image:       url('https://i.imgur.com/yW9BEoD.gif');
+        background-size:        cover;
+}
+
+#user-rollover.id-28631750 .info .badge-box .bdg {
+	background: url(https://i.imgur.com/yW9BEoD.gif)
+        center no-repeat!important;
+}
+
+
+
+
 
 
 
